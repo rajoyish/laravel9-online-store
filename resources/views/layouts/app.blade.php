@@ -45,7 +45,7 @@
         <div class="container">
             <small>
                 Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank"
-                    href="https://twitter.com/danielgarax">
+                    href="https://twitter.com/rajoyish">
                     @rajoyish
                 </a> - <b>Rajesh Budhathoki</b>
             </small>
